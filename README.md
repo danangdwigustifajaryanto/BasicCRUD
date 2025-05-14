@@ -47,4 +47,4 @@ Proyek ini masih sederhana dan terbuka untuk pengembangan lanjutan seperti:
 - Export data ke Excel/PDF
 ---
 
-> Dibuat dengan semangat belajar oleh [Danang Dwi Gusti Fajar Yanto].
+> Dibuat dengan tujuan pembelajaran oleh [Danang Dwi Gusti Fajar Yanto].
