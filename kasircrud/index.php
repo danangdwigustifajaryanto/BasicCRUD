@@ -1,0 +1,1 @@
+<?php header("Location: halaman/kasir.php"); exit; ?>
